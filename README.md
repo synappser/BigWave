@@ -10,7 +10,7 @@ It comes as a light and dark dynamic HEIC image file  (*7680x4800@2x*).
 
 ## Screenshot
 
-<img src="./BigWave@2x.gif?raw=true" width="526" />
+<img src="./BigWave@2x.png?raw=true" width="526" />
 
 ## All Rights Reserved
 
