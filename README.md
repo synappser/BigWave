@@ -4,9 +4,9 @@
 
 **Big Wave**, is roughly inspired by **The Great Wave off Kanagawa** by Japanese ukiyo-e artist **Hokusai**, created in late 1831 during the Edo period.
 
-It comes as a light and dark dynamic HEIC image file  (*7680x4800*). Do not rename the HEIC file.
+It comes as a light and dark dynamic HEIC image file (*7680x4800*).
 
-**[Download](https://github.com/synappser/BigWave/releases/download/v1.1/BigWave.heic?raw=true)**
+**[Download](https://github.com/synappser/BigWave/releases/download/v1.2/BigWave.heic?raw=true)**
 
 ## Screenshot
 
